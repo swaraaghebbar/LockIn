@@ -258,7 +258,7 @@ const searchResults = files.filter((f) =>
         <div className="login-card">
           <div className="logo" style={{ justifyContent: 'center', marginBottom: '32px' }}>
             <IconCloud />
-            <span>HopeDrive</span>
+            <span>LockedIn</span>
           </div>
           <h1 style={{ fontSize: '2rem', marginBottom: '8px' }}>Welcome Back</h1>
           <p style={{ color: 'var(--text-muted)', marginBottom: '32px' }}>Login to access your distributed file storage</p>
@@ -283,7 +283,7 @@ const searchResults = files.filter((f) =>
       <aside className="sidebar">
         <div className="logo">
           <IconCloud />
-          <span>HopeDrive</span>
+          <span>LockedIn</span>
         </div>
         <nav className="nav-menu">
   <div
